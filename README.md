@@ -4,11 +4,11 @@
 - Instalar Docker
 - Instalar Docker Compose
 - Instalar jq (Opcional)
-- ``curl http://localhost:8080/api/restaurants | jq`` (con jq)
-- ``curl http://localhost:8080/api/restaurants`` (sin jq)
 
 ## Ejecutar
 ``docker compose up -d --build db api``
+- ``curl http://localhost:8080/api/restaurants | jq`` (con jq)
+- ``curl http://localhost:8080/api/restaurants`` (sin jq)
 
 
 ## Pendiente
