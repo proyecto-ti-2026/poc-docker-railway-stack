@@ -12,5 +12,6 @@
 
 
 ## Pendiente
+- Desplegar testing y producción en nube
 - Consumir API desde frontend
 - Hacer que la carga de datos dummy en la db funcione con Flyway (no logré hacerlo andar)
